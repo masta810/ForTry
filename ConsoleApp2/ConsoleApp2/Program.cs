@@ -1,9 +1,11 @@
 ﻿
 
-string phrase = ("Giraffe Academy" + " is cool");
 
-Console.WriteLine(phrase);
+Console.Write("Enter a number: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(phrase.Length);
+Console.Write("Enter another number: ");
+int num2 = Convert.ToInt32(Console.ReadLine());
 
+Console.WriteLine(num1 + num2);
 Console.ReadLine();
