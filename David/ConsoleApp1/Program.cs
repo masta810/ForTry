@@ -1,5 +1,5 @@
 ﻿
-// calling static method doen't require instance of class
+// calling static method doesn't require instance of class
 Car.GetCarSize();
 
 

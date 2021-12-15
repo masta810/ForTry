@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ondra\\Repository\\ForTry\\David\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Ondra\\Repository\\ForTry\\David\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Ondra\\Repository\\ForTry\\ConsoleApp5\\ConsoleApp5\\Using_Switch.csproj",
+      "projectName": "Using_Switch",
+      "projectPath": "C:\\Users\\Ondra\\Repository\\ForTry\\ConsoleApp5\\ConsoleApp5\\Using_Switch.csproj",
       "packagesPath": "C:\\Users\\Ondra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ondra\\Repository\\ForTry\\David\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Ondra\\Repository\\ForTry\\ConsoleApp5\\ConsoleApp5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ondra\\AppData\\Roaming\\NuGet\\NuGet.Config",

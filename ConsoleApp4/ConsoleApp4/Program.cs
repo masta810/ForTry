@@ -1,22 +1,36 @@
-﻿
-bool isMale = true;
-bool isTall = false;
+﻿Console.WriteLine("Better calculator");
 
-if (isMale && isTall)
+Console.WriteLine("Enter a Number: ");
+decimal num1 = Convert.ToDecimal(Console.ReadLine());
+
+Console.WriteLine("Enter Operator: ");
+string op = Console.ReadLine();
+
+Console.WriteLine("Enter a number: ");
+decimal num2 = Convert.ToDecimal(Console.ReadLine());
+
+Console.WriteLine("Result:");
+
+if (op == "+")
 {
-    Console.WriteLine("You are tall male");
+    Console.WriteLine(num1 + num2);
 }
-else if (isMale && !isTall)
+else if (op == "-")
 {
-    Console.WriteLine("You are short male");
+    Console.WriteLine(num1 - num2);
 }
-else if (!isMale && isTall)
+else if (op == "*")
 {
-    Console.WriteLine("You are not male but you are tall");
+    Console.WriteLine(num1 * num2);
+}
+else if (op == "/")
+{
+    Console.WriteLine(num1 / num2);
 }
 else
 {
-    Console.WriteLine("You are not male and not tall");
+    Console.WriteLine("Invalid Operator");
 }
+
 
 Console.ReadLine();
