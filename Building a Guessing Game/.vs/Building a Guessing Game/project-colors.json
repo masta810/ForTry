@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13ad479e-dd91-4201-8f47-cf83253bf864": {
+      "ProjectGuid": "13ad479e-dd91-4201-8f47-cf83253bf864",
+      "DisplayName": "Building a Guessing Game",
+      "ColorIndex": 0
+    },
+    "fbdf5909-6e06-450e-96b4-7b266d46209a": {
+      "ProjectGuid": "fbdf5909-6e06-450e-96b4-7b266d46209a",
+      "DisplayName": "For Loops",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

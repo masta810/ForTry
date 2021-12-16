@@ -1,0 +1,15 @@
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\bin\Debug\net6.0\Building a Guessing Game.exe
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\bin\Debug\net6.0\Building a Guessing Game.deps.json
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\bin\Debug\net6.0\Building a Guessing Game.runtimeconfig.json
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\bin\Debug\net6.0\Building a Guessing Game.dll
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\bin\Debug\net6.0\ref\Building a Guessing Game.dll
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\bin\Debug\net6.0\Building a Guessing Game.pdb
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.csproj.AssemblyReference.cache
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.AssemblyInfoInputs.cache
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.AssemblyInfo.cs
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.dll
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\ref\Building a Guessing Game.dll
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.pdb
+C:\Users\Ondra\Repository\ForTry\Building a Guessing Game\Building a Guessing Game\obj\Debug\net6.0\Building a Guessing Game.genruntimeconfig.cache
